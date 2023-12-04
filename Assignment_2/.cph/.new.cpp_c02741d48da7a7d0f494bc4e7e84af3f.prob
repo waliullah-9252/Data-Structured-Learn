@@ -1,0 +1,1 @@
+{"name":"Local: new","url":"d:\\Phitron\\Data Structure\\Assignment_2\\new.cpp","tests":[{"id":1686985714778,"input":"5\n0 10\n0 20\n1 30\n0 40\n1 50","output":"10 10\n20 10\n20 30\n40 30\n40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Data Structure\\Assignment_2\\new.cpp","group":"local","local":true}
